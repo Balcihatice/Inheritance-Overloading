@@ -1,4 +1,4 @@
-package inheritance_constructor.Factory;
+package inheritance_constructor.factory;
 
 public class Muhasebe extends Personel{
 

@@ -1,4 +1,4 @@
-package inheritance_constructor.Overloading;
+package inheritance_constructor.overloading;
 
 public class Overloading01 {
 

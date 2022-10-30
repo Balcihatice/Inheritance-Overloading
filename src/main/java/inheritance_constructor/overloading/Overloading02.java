@@ -1,4 +1,4 @@
-package inheritance_constructor.Overloading;
+package inheritance_constructor.overloading;
 
 public class Overloading02 {
     public static void main(String s[]) {

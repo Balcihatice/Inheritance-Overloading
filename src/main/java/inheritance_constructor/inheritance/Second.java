@@ -1,4 +1,4 @@
-package inheritance_constructor.Inheritance;
+package inheritance_constructor.inheritance;
 
 public class Second extends First{
     int j;

@@ -1,4 +1,4 @@
-package inheritance_constructor.Factory;
+package inheritance_constructor.factory;
 
 public class Isci extends Muhasebe {
 
@@ -9,7 +9,7 @@ public class Isci extends Muhasebe {
         Isci isci1 = new Isci();
 
         isci1.isim = "Huseyin";
-        isci1.soyisim = "Kilic";
+        isci1.soyIsim = "Kilic";
         isci1.telefonNo = "5559994422";
         isci1.saatUcreti = 30;
 
@@ -22,7 +22,7 @@ public class Isci extends Muhasebe {
         Isci isci2 = new Isci();
 
         isci2.isim = "Aysenaz";
-        isci2.soyisim = "Hosgor";
+        isci2.soyIsim = "Hosgor";
         isci2.telefonNo = "5558884422";
         isci2.saatUcreti = 35;
 
